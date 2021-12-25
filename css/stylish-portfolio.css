@@ -103,7 +103,7 @@ img {
 }
 
 .content-section-heading h2 {
-  font-size: 5rem;
+  font-size: 4rem;
   line-height: 0.8;
 }
 
@@ -318,8 +318,8 @@ h2 {
 }
 
 .service-icon img {
-  height: 6rem;
-  width: 6rem;
+  height: 5.5rem;
+  width: 7rem;
   position: relative;
   bottom: 7px;
 }
@@ -545,15 +545,9 @@ h2 {
 }
 
 .list-hours .list-hours-item {
-  border-bottom: 1px solid #ffe500;
-  padding-bottom: .25rem;
-  margin-bottom: 1rem;
-  font-style: italic;
-}
-
-.list-hours .list-hours-item.today {
-  font-weight: bold;
-  color: #ffe500;
+  border-bottom: 1px solid #15187F;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
 }
 
 @media (min-width: 992px) {
